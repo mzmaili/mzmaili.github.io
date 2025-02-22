@@ -61,6 +61,7 @@ author:
   name   : "Mohammad Zmaili"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Product Manager @ Microsoft"
+  location: Massachusetts, United States
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,9 +72,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mzmaili"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@mzmaili"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/mzmaili"
 
 footer:
   links:
