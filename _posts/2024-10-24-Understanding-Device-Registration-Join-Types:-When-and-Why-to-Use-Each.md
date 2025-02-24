@@ -69,6 +69,6 @@ Choosing the right device registration join type is essential for balancing secu
 Hope this cover everything you wanted 😊
 
 ## References:
-- [Microsoft Entra joined devices](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flearn%2Emicrosoft%2Ecom%2Fen-us%2Fentra%2Fidentity%2Fdevices%2Fconcept-directory-join&urlhash=aesX&trk=article-ssr-frontend-pulse_little-text-block)
-- [Microsoft Entra registered devices](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flearn%2Emicrosoft%2Ecom%2Fen-us%2Fentra%2Fidentity%2Fdevices%2Fconcept-device-registration&urlhash=F753&trk=article-ssr-frontend-pulse_little-text-block)
-- [Microsoft Entra hybrid joined devices](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flearn%2Emicrosoft%2Ecom%2Fen-us%2Fentra%2Fidentity%2Fdevices%2Fconcept-hybrid-join&urlhash=Qrlj&trk=article-ssr-frontend-pulse_little-text-block)
+- [Microsoft Entra joined devices](https://learn.microsoft.com/en-us/entra/identity/devices/concept-directory-join)
+- [Microsoft Entra registered devices](https://learn.microsoft.com/en-us/entra/identity/devices/concept-device-registration)
+- [Microsoft Entra hybrid joined devices](https://learn.microsoft.com/en-us/entra/identity/devices/concept-hybrid-join)
