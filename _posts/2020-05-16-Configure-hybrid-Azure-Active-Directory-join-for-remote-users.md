@@ -10,7 +10,6 @@ tags:
   - DeviceManagement
   - IdentityAndSecurity
 ---
-# Configure hybrid Azure Active Directory join for remote users
 The number of users working from home (WFH) increases in the response of COVID-19 (aka. coronavirus) outbreak, and we need to make sure that identities and their information remain protected and secured by connecting devices to Azure AD and configuring Device-based Conditional Access Policy.<br>
 
 Previously, I shared an article and discussed how to [Increase productivity and protection by connecting devices to AAD and configuring Device-based Conditional Access Policy](https://web.archive.org/web/20240227065750/https://azureera.com/configuring-device-based-conditional-access-policy/). <br>
