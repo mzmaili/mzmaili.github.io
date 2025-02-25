@@ -9,7 +9,6 @@ tags:
   - DeviceManagement
   - IdentityAndSecurity
 ---
-# Do you have dual state devices in your AAD tenant?
 We have observed recently many customers are asking why they do see the same device has two device objects on Azure AD, and connected twice to Azure AD as Azure AD Registered and Hybrid Azure AD Joined device.<br><br>
 In this article, I am going to describe what does dual state mean and how to get rid of this state in the recommended way in the following points:
 <br><br>
