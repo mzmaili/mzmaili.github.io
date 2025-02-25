@@ -10,7 +10,6 @@ tags:
   - DeviceManagement
   - IdentityAndSecurity
 ---
-# Responding to COVID-19: Azure AD Device FAQ
 Responding to COVID-19 (aka. coronavirus) crisis, employees started working from home, and we start receiving many queries about Azure AD Devices. In this article, I am going to answer the most frequently asked questions.
 <br><br>
 ## Does it worth to connect my user’s devices to Azure AD while they are working remotely?!!<br>
