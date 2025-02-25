@@ -10,7 +10,8 @@ tags:
   - DeviceManagement
   - IdentityAndSecurity
 ---
-![Screenshot showing Device Registration Join Types](/assets/images/deviceJoinTypes.jpg "Device Registration Join Types")
+![Screenshot showing Device Registration Join Types](/assets/images/deviceJoinTypes.jpg "Device Registration Join Types") 
+<br><br>
 In today's digital landscape, securing devices and ensuring seamless access to corporate resources is paramount. As an Identity & Security expert, it's crucial to understand the different device registration join types available and their respective benefits. This knowledge helps in making informed decisions tailored to organizational needs.
 
 ## 1. Microsoft Entra Registered
