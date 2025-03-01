@@ -11,8 +11,8 @@ tags:
   - IdentityAndSecurity
 ---
 [Do I really need to connect my device to Azure AD?]([2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md](https://mzmaili.github.io/device%20registration/Do-I-really-need-to-connect-my-device-to-Azure-AD/)) <br>
-[Do I really need to connect my device to Azure AD?](../2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
-[Do I really need to connect my device to Azure AD?](.\2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
+[Do I really need to connect my device to Azure AD?](2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
+[Do I really need to connect my device to Azure AD?](/_posts/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
 [Do I really need to connect my device to Azure AD?](_posts/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
 
 
