@@ -14,7 +14,7 @@ tags:
 [Do I really need to connect my device to Azure AD?!](_posts/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md)
 [Do I really need to connect my device to Azure AD?!](/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md)
 [Do I really need to connect my device to Azure AD?!](2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md)
-[Do I really need to connect my device to Azure AD?!](/device%20registration/Do-I-really-need-to-connect-my-device-to-Azure-AD.md)
+[Do I really need to connect my device to Azure AD?!](/device%20registration/Do-I-really-need-to-connect-my-device-to-Azure-AD)
 
 The number of users working from home (WFH) increases in response of COVID-19 (aka. coronavirus) outbreak, and we need to make sure that identities and their information remain protected and secured by connecting devices to Azure AD and configuring Device-based Conditional Access Policy.
 
