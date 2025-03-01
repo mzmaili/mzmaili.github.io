@@ -10,15 +10,9 @@ tags:
   - DeviceManagement
   - IdentityAndSecurity
 ---
-[Do I really need to connect my device to Azure AD?]([2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md](https://mzmaili.github.io/device%20registration/Do-I-really-need-to-connect-my-device-to-Azure-AD/)) <br>
-[Do I really need to connect my device to Azure AD?](2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
-[Do I really need to connect my device to Azure AD?](/_posts/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
-[Do I really need to connect my device to Azure AD?](_posts/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) <br>
-
-
 The number of users working from home (WFH) increases in response of COVID-19 (aka. coronavirus) outbreak, and we need to make sure that identities and their information remain protected and secured by connecting devices to Azure AD and configuring Device-based Conditional Access Policy.
 
-Previously, I shared an article that answers [Do I really need to connect my device to Azure AD?](2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md)! and in this article we will discuss how to configure device-based Conditional Access Policies.
+Previously, I shared an article that answers [Do I really need to connect my device to Azure AD?!](/_posts/2019-09-07-Do-I-really-need-to-connect-my-device-to-Azure-AD.md) and in this article we will discuss how to configure device-based Conditional Access Policies.
 
 When configuring Device-based Conditional Access Policy, customer falls into one of the following scenarios:
 
@@ -107,9 +101,9 @@ After completing Azure AD connect wizard, Service Connection Point (SCP) will be
 
 Devices in Federated environments should have a line-of-sight connection to local Active Directory either by connecting it to the local network or by using VPN to read SCP information in order to connect itself to Azure AD.
 
-Device registration process for Federated domains completes in few seconds as the device authenticates directly from ADFS server. More information about high level device registration steps can be found in the article, [Hybrid Azure AD Device Registration](2019-10-20-Hybrid-Azure-AD-Device-Registration.md)
+Device registration process for Federated domains completes in few seconds as the device authenticates directly from ADFS server. More information about high level device registration steps can be found in the article, [Hybrid Azure AD Device Registration](/_posts/2019-10-20-Hybrid-Azure-AD-Device-Registration.md)
 
-We still do recommend the devices to be synced to Azure AD even if device registration process does not depend on Azure AD Connect synchronization. More information about high level device registration steps can be found in the article, [Hybrid Azure AD Device Registration](2019-10-20-Hybrid-Azure-AD-Device-Registration.md)
+We still do recommend the devices to be synced to Azure AD even if device registration process does not depend on Azure AD Connect synchronization. More information about high level device registration steps can be found in the article, [Hybrid Azure AD Device Registration](/_posts/2019-10-20-Hybrid-Azure-AD-Device-Registration.md)
 
 Additionally, you can use [Device Registration Troubleshooter tool](https://aka.ms/DSRegTool) which performs more than 30 different tests that help you to identify and fix the most common device registration issues for all join types (Hybrid Azure AD joined, Azure AD Joined and Azure AD Register).
 
