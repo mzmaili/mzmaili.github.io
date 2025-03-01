@@ -48,7 +48,7 @@ Device registration high-level steps for Hybrid Azure AD joined:
 4. The device authenticates against either Azure AD or federation service (e.g. ADFS).
 5. The device registration process finishes.
 6. <br>
-For more information, kindly visit the link: [Hybrid Azure AD Device Registration](/_posts/2019-10-20-Hybrid-Azure-AD-Device-Registration.md)<br>
+For more information, kindly visit the link: [Hybrid Azure AD Device Registration](/device%20registration/Hybrid-Azure-AD-Device-Registration/)<br>
 
 ## Why are we facing delays in getting remote devices connected to Azure AD as Hybrid Azure Active Directory join?
 Many customers are facing delays in getting devices registered. The time taken to complete device registration depends on many aspects, for example:
