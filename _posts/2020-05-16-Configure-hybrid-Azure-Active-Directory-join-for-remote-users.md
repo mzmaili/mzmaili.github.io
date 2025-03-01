@@ -12,7 +12,7 @@ tags:
 ---
 The number of users working from home (WFH) increases in the response of COVID-19 (aka. coronavirus) outbreak, and we need to make sure that identities and their information remain protected and secured by connecting devices to Azure AD and configuring Device-based Conditional Access Policy.<br>
 
-Previously, I shared an article and discussed how to [Increase productivity and protection by connecting devices to AAD and configuring Device-based Conditional Access Policy](https://web.archive.org/web/20240227065750/https://azureera.com/configuring-device-based-conditional-access-policy/). <br>
+Previously, I shared an article and discussed how to [Increase productivity and protection by connecting devices to AAD and configuring Device-based Conditional Access Policy](/device%20registration/Increase-productivity-and-protection-by-connecting-devices-to-AAD-and-configuring-Device-based-Conditional-Access-Policy/). <br>
 
 We are receiving lots of queries from customers who are facing challenges in configuring Hybrid Azure AD joined for the remote domain-joined device where users are working from home.<br>
 
