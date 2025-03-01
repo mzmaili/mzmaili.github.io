@@ -1,6 +1,6 @@
 ---
 title: "Azure AD Pending Devices"
-date: 2020-04-05 00:00:00 +0800
+date: 2019-12-24 00:00:00 +0800
 categories:
   - Device Registration
 tags:
