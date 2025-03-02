@@ -80,7 +80,6 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/mzmaili"
 
-# Analytics
 analytics:
   provider               : google
   google:
