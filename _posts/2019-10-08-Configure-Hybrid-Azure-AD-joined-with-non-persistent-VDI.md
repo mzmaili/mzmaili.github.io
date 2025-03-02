@@ -69,4 +69,3 @@ The next challenge is to avoid keeping unwanted device objects in Azure AD tenan
 - If you are relying on a Virtual Machine (VM) snapshot to create additional VMs, make sure that snapshot is not from a VM that is already registered with Azure AD as Hybrid Azure AD join.
 - You can use [Azure PRT Login Status Report](https://github.com/mzmaili/AzurePRTLoginReport) script to validate Azure PRT.
 
-- 
