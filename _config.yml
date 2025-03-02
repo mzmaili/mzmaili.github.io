@@ -75,12 +75,6 @@ author:
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/mzmaili"
 
-analytics:
-  provider: google
-  google:
-    tracking_id: G-413T2L7Z1T
-    anonymize_ip: # true, false (default)
-
 footer:
   links:
     - label: "GitHub"
