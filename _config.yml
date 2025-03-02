@@ -76,10 +76,10 @@ author:
       url: "https://linkedin.com/in/mzmaili"
 
 analytics:
-  provider               : google
+  provider: google
   google:
-    tracking_id          : G-413T2L7Z1T
-    anonymize_ip         : # true, false (default)
+    tracking_id: G-413T2L7Z1T
+    anonymize_ip: # true, false (default)
 
 footer:
   links:
