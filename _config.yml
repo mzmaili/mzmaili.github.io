@@ -61,6 +61,7 @@ plugins:
 author:
   name   : "Mohammad Zmaili"
   avatar : "/assets/images/zmaili.jpg"
+  og_image : "/assets/images/zmaili.jpg"
   bio    : "Product Manager @ Microsoft"
   location: Massachusetts, United States
   links:
