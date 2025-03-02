@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: zmaili.net
+#title: zmaili.net
 subtitle: "Helping individuals and organizations protecting their identities and information"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: mzmaili
 minimal_mistakes_skin: default
 search: true
 
@@ -64,12 +64,6 @@ author:
   bio    : "Product Manager @ Microsoft"
   location: Massachusetts, United States
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mzmaili"
