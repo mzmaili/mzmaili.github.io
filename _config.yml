@@ -80,7 +80,7 @@ author:
       url: "https://www.youtube.com/@mzmaili"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/in/mzmaili"
+      url: "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mzmaili"
 
 # Analytics
 analytics:
@@ -99,7 +99,7 @@ footer:
       url: "https://www.youtube.com/@mzmaili"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://linkedin.com/in/mzmaili"
+      url: "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mzmaili"
 
 defaults:
   # _posts
