@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
-## About me
 I'm a Product Manager in the Identity and Network Access division within the Customer Experience Engineering team at Microsoft Security, where I work closely with enterprise customers, partners, and engineering team to elevate cybersecurity and identity protection through innovative, cutting-edge solutions.
 
 I work hand in hand with engineering teams to drive continuous improvements in Microsoft Entra products, ensuring they not only address evolving security challenges but also contribute to increasing global security standards. My mission is to help create a safer digital world by advancing identity and access management solutions that safeguard organizations and individuals alike.
