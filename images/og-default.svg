@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#08111f"/>
+      <stop offset="100%" style="stop-color:#0f1b2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2dd4bf"/>
+      <stop offset="100%" style="stop-color:#4ea1ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <!-- Shield icon -->
+  <path d="M100 280L82 290v14c0 12.5 7.7 24.2 18 28 10.3-3.8 18-15.5 18-28V290L100 280z" fill="#4ea1ff" fill-opacity="0.2" stroke="#4ea1ff" stroke-width="2"/>
+  <rect x="94" y="298" width="12" height="14" rx="2" fill="none" stroke="#4ea1ff" stroke-width="2"/>
+  <path d="M96 298v-4a4 4 0 0 1 8 0v4" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="140" y="310" font-family="Inter, system-ui, sans-serif" font-size="42" font-weight="800" fill="#F8FAFC">Mohammad Zmaili</text>
+  <text x="140" y="355" font-family="Inter, system-ui, sans-serif" font-size="22" fill="#94A3B8">Cybersecurity &amp; Identity | Zero Trust &amp; AI Security</text>
+  <!-- Bottom accent line -->
+  <rect x="60" y="420" width="120" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="60" y="480" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="600" fill="#E5E7EB">Guiding enterprises to secure modern,</text>
+  <text x="60" y="520" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="600" fill="#E5E7EB">cloud-first and AI-enabled environments.</text>
+  <text x="60" y="590" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#4ea1ff">zmaili.net</text>
+</svg>
