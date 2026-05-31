@@ -20,7 +20,7 @@
   --radius-md: 1rem;
   --radius-lg: 1.5rem;
   --radius-full: 999px;
-  --content-width: 45rem;
+  --content-width: 65rem;
   --shell-width: 76rem;
   --transition: 180ms ease;
   --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -321,7 +321,6 @@ pre {
 }
 
 .hero-copy p,
-.article-content p,
 .page-intro {
   max-width: 68ch;
 }
